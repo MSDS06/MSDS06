@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/Big-data-hero-AdobeStock_389870710.jpg)
+![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/Big-data-hero-AdobeStock_389870710.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Şahin Sarıoğullarından</h1>
 <h3 align="center">A passionate statistician from Turkey</h3>
 
